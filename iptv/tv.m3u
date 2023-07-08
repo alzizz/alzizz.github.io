@@ -24,6 +24,9 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.
 #EXTINF:-1 ,MAGNA
 http://edge.medcom.id/live-edge/smil:magna.smil/index.m3u8
 
+#EXTINF:-1 ,MAKKAH TV
+https://app-etslive-2.vidio.com/live/6852/master.m3u8
+
 #EXTINF:-1 ,MENTARI
 http://103.166.27.2:800/play/a018
 
@@ -42,11 +45,17 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 #EXTINF:-1 ,RCTI
 http://av-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
+#EXTINF:-1 ,RODJA TV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
 #EXTINF:-1 ,RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 #EXTINF:-1 ,SCTV
 http://103.166.27.2:800/play/a015
+
+#EXTINF:-1 ,TAWAF TV
+https://app-etslive-2.vidio.com/live/12607/master.m3u8
 
 #EXTINF:-1 ,TRANS 7
 http://103.166.27.2:800/play/a01c
@@ -134,6 +143,27 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 ,NICK JR.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/index.m3u8
+
+#EXTINF:-1 ,BEIN 1
+https://app-etslive-2.vidio.com/live/6299/master.m3u8
+
+#EXTINF:-1 ,BEIN 3
+https://app-etslive-2.vidio.com/live/6317/master.m3u8
+
+#EXTINF:-1 ,CHAMPIONS TV 1
+https://app-etslive-2.vidio.com/live/6685/master.m3u8
+
+#EXTINF:-1 ,CHAMPIONS TV 2
+https://app-etslive-2.vidio.com/live/6686/master.m3u8
+
+#EXTINF:-1 ,CHAMPIONS TV 3
+https://app-etslive-2.vidio.com/live/6786/master.m3u8
+
+#EXTINF:-1 ,CHAMPIONS TV 5
+https://app-etslive-2.vidio.com/live/9182/master.m3u8
+
+#EXTINF:-1 ,CHAMPIONS TV 6
+https://app-etslive-2.vidio.com/live/9183/master.m3u8
 
 #EXTINF:-1 ,FIGHT SPORTS
 http://210.210.155.37/dr9445/h/h05/index.m3u8
