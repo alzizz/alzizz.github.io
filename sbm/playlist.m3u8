@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:0,ANTV
+https://alzizz.github.io/sbm/antv.m3u8
+
+#EXTINF:0,CNBC Indonesia
+https://alzizz.github.io/sbm/cnbcindonesia.m3u8
+
+#EXTINF:0,CNN Indonesia
+https://alzizz.github.io/sbm/cnnindonesia.m3u8
+
+#EXTINF:0,Indosiar
+https://alzizz.github.io/sbm/indosiar.m3u8
+
+#EXTINF:0,Moji
+https://alzizz.github.io/sbm/moji.m3u8
+
+#EXTINF:0,SCTV
+https://alzizz.github.io/sbm/sctv.m3u8
+
+#EXTINF:0,Mentari TV
+https://alzizz.github.io/sbm/mentaritv.m3u8
+
+#EXTINF:0,Trans 7
+https://alzizz.github.io/sbm/trans7.m3u8
+
+#EXTINF:0,Trans TV
+https://alzizz.github.io/sbm/transtv.m3u8
+
+#EXTINF:0,TV One
+https://alzizz.github.io/sbm/tvone.m3u8
