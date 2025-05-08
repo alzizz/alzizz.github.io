@@ -74,7 +74,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/664c3c53d9405210740
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ubxkPl8qn/XgkhJWcmzqOg", "kid":"EOOHCOtx2ahwRHsBMiWSgA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042191X0-portrait.jpg",Godzilla X Kong: The New Empire 2024
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042191X0-portrait.jpg",Godzilla X Kong: The New Empire
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/667cf90ad94052107404ae58_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042083X0-portrait.jpg",Dune: Part Two
@@ -102,14 +102,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/658501a6d940521074e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wfASatvCunB1rGsUOmjNxg", "kid":"K/UnBJ8aM/b6NDWPucK5ew" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d41058d940521074f4f78c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b9eee44a4d9cbe34c002ed047cdbde:bde829af20214a2a07907c0a537686db
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041832X0-portrait.jpg",Wonka 2023
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041832X0-portrait.jpg",Wonka
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66570a7ed940521074012bee_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041481X0-portrait.jpg",Genie
@@ -1866,7 +1866,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a496c2bd0bb5cd89
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VBn1JkeyqEA7F1h/H76ZSg", "kid":"VWanQjEnUrKrYFd3o7snvA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",Joker 2019
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",Joker
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032259X0-portrait.jpg",Finding The Way Home
@@ -2541,7 +2541,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d67b684a7beea6fa07
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hZ1BnZ5TnipGMH/Gd/R7w","kid":"vd/UvrcVXeakDN/4f5SsPw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e9a2ecbea8a6a4eef6ddb_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021356X0-portrait.jpg",Fahrenheit 451 (2018)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021356X0-portrait.jpg",Fahrenheit 451
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2622,14 +2622,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/608689d86d048943f77
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o/KxnDxumhFgbb1aqAavrg", "kid":"mOLGZX+lUn6kJgNn+p7Ttg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle Creation 2017
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle Creation
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2VGeSLbp5LdBPSAVMX1yLQ", "kid":"rtXDFIDJXDu8+56nwhaqsQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021110X0-portrait.jpg",Kong: Skull Island 2017
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021110X0-portrait.jpg",Kong: Skull Island
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4e44e8caa5a5e0b11f7f4_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022544X0-portrait.jpg",Classical Baby: The Lullaby Show 2
@@ -2737,7 +2737,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcb40cbea8a6a4ee
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vt8y+/8powjZVUYR190rwQ","kid":"UenHnTsLWyq7VsZa6gOY6g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e5f49cbea8a6a4eef6823_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020920X0-portrait.jpg",Totem (2017)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020920X0-portrait.jpg",Totem
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3577,7 +3577,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9a2fd940521074d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cytW4FRjL90BAJ68g4SmDQ","kid":"8mwnM7wIXjKmg/kDodEC3A"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5faa31b56d048943f7690a7d_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020711X0-portrait.jpg",Requiem For The Dead: American Spring 2014
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020711X0-portrait.jpg",Requiem For The Dead: American Spring
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4739,7 +4739,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dccd96ccbea8a6a4ef
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ksYK4LYMOKxMiJIYvJqhog","kid":"4pCMSfHYcVWUGVZd5FgHIQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62ac68c3d940521074a92e2c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014153X0-portrait.jpg",Puss In Boots (2011)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014153X0-portrait.jpg",Puss In Boots
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5061,7 +5061,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dea4d71cbea8a6a4ef
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ql6LdqyhQO8Rh452khfnDw","kid":"3mZ3GSNeWAaKvL0kLMIFwQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9127abba74fe65548cb9de_hbovodsd/dash0/IDN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014925X0-portrait.jpg",The Fence (2010)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014925X0-portrait.jpg",The Fence
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6272,7 +6272,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c769834be7189575a8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mdVfvoY76caADf/Wt8+rjg","kid":"jk0gWJZ7W9SZuQeIsK+ADw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90bbd0ba74fe65548cae7b_hbovodsd/dash0/IDN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016474X0-portrait.jpg",King Kong (2005)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016474X0-portrait.jpg",King Kong
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6745,7 +6745,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c718bbe7189575a8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ib2QZL3gOWQZtyC3Mjrwvw","kid":"U+VpMZDdy1IAAlRZhorAVA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings: Return Of The King 2003
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings: Return Of The King
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034833X0-portrait.jpg",Golden Chicken 2
@@ -6871,7 +6871,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911700ba74fe65548
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/5r9UYHkRB7mJJiFZ0eTcg","kid":"Ebvdb7xjfyo1Rp40jvcXjQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings: The Two Towers 2002
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings: The Two Towers
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034764X0-portrait.jpg",Golden Chicken
@@ -6990,7 +6990,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c77c416be7189575a8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yP7R6nMguBYDhtmg+JSNlA","kid":"7/+K/9MKlCglpR16LmLA2w"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring 2001
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013161X0-portrait.jpg",Vanilla Sky
