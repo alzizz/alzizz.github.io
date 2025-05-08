@@ -1302,7 +1302,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62cd6035d940521074a
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O+HTHf6U/h42HAbj4pheHw","kid":"HKngtzKXypCdW7DjYRWoMA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb302fd940521074af11e5_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032418X0-portrait.jpg",Cha-Ching’S Money Adventures: A Musical Series
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032418X0-portrait.jpg",Cha-Ching's Money Adventures: A Musical Series
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1477,7 +1477,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb295cd940521074a
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q6bu6MdBcWxwmjXTguixIQ","kid":"JwIeovuRWcquYAY8eNWtiA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/604f3ad46d048943f7784083_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder’S Justice League: Justice Is Gray
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030577X1-portrait.jpg",Zack Snyder's Justice League: Justice Is Gray
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2135,7 +2135,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648fe780d940521074d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M9wmyMV82MFZ4k+bziSt1A","kid":"134DJNgxUBSQQVIIP28XRw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5efc47cc6d048943f758cc67_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023875X0-portrait.jpg",What’S My Name: Muhammad Ali (Part 2)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023875X0-portrait.jpg",What's My Name: Muhammad Ali (Part 2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4809,7 +4809,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64827790d940521074d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QX/WUZBta7+HAz+V78H3vA","kid":"s/jELSsFV06RrYhAdUB3xQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb10bce6d048943f751a3af_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016573X0-portrait.jpg",There’S Something Wrong About Aunt Diane
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016573X0-portrait.jpg",There's Something Wrong About Aunt Diane
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -7497,7 +7497,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c766c86be7189575a8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0+ZNeRE0T3P56kvT7Lcz0g","kid":"kspFEQ1HWAOZZc3qotEk5g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dba91fecbea8a6a4ef39b7e_hbovodsd/dash0/IDN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015563X0-portrait.jpg",Todd Mcfarlane’S Spawn
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015563X0-portrait.jpg",Todd Mcfarlane's Spawn
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
