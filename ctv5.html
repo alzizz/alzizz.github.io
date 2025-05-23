@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DRM ClearKey DASH Example</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.6/shaka-player.compiled.js"></script>
+</head>
+<body>
+  <h2>DRM ClearKey - MPEG-DASH Playback</h2>
+  <video id="video" width="640" controls autoplay></video>
+
+  <script>
+    async function initPlayer() {
+      const manifestUri = 'https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash'; // Ganti dengan URL MPD kamu
+
+      const clearkey = {
+        'keys': [
+          {
+            'kty': 'oct',
+            'kid': 'c6AGR3DYMMIeelf806IArQ',
+            'k': 'fY1VdGn5aLELr7QY11D67Q'
+          }
+        ],
+        'type': 'temporary'
+      };
+
+      const player = new shaka.Player(document.getElementById('video'));
+
+      // Logging
+      player.addEventListener('error', e => console.error('Error:', e.detail));
+
+      // Configure DRM ClearKey
+      player.configure({
+        drm: {
+          clearKeys: {
+            '73a0064770d830c21e7a57fcd3a200ad': '7d8d557469f968b10bafb418d750faed'
+          }
+        }
+      });
+
+      try {
+        await player.load(manifestUri);
+        console.log('The video has been loaded!');
+      } catch (error) {
+        console.error('Error loading video:', error);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', initPlayer);
+  </script>
