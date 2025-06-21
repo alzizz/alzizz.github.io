@@ -1,0 +1,225 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.css-button {
+color: #ffffff;
+font-size: 10px;
+border-radius: 10px;
+border: inset 0px #6dc911;
+text-shadow: 1px 1px 0px #a3a3a3;
+
+text-decoration: none;
+cursor: pointer;
+position: relative;
+overflow: hidden;
+font-family: 'Bubblegum Sans', cursive;
+font-weight: bold;
+font-style: italic;
+background: #ff4400;
+display: inline-flex;
+align-items: center;
+padding: 1px;
+margin-bottom: 3px;
+}
+.css-btn-jdl {
+color: #ffffff;
+font-size: 10px;
+text-decoration: none;
+cursor: pointer;
+position: relative;
+overflow: hidden;
+font-family: 'Bubblegum Sans', cursive;
+font-weight: bold;
+font-style: italic;
+display: inline-flex;
+align-items: center;
+margin-bottom: 2px;
+}
+.css-btn-border {
+border: yes ;
+border-radius: 7px;
+border-top-color: white;
+border-right-color: white;
+border-bottom-color: white;
+border-left-color: white;
+background-color: black;
+margin-bottom: 5px;
+}
+
+.css-button:hover {
+background: #000000;
+}
+.css-button-text {
+position: relative;
+padding: 5px 12px;
+}
+.css-button-icon {
+position: relative;
+border-right: 1px solid #ffffff29;
+box-shadow: inset rgb(0 0 0 / 14%) -1px 0 0;
+padding: 7px 4px;
+color: #fff;
+background: #ff0000;
+}
+
+.Marquee-box {
+position: relative;
+display: inline-block;
+width: 100%;
+height: 15px;
+}
+.MyMarquee {
+text-align: center;
+font-weight: bold;
+width: 100%;
+height: 100%;
+font-size: 10px;
+border: 1px solid #8C8C8C;
+color: #FFFFFF;
+font-family: Arial, Helvetica, sans-serif;
+vertical-align: middle;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+     box-sizing: border-box;
+background-color: #FF0000;
+
+}
+.MyMarquee div {
+display: inline-block;
+vertical-align: middle;
+}
+.MyMarquee a, .MyMarquee img {
+display: inline-block;
+text-decoration: underline;
+color: #FFFFFF;
+vertical-align: middle;
+}
+    #offline-message {
+display: none;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background-color: #f1f1f1;
+padding: 20px;
+border-radius: 5px;
+text-align: center;
+}
+.container {
+position: relative;
+}
+
+.overlay {
+position: relative;
+top: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.iframe-tv {
+border: px solid #000;
+border-radius: 7px;
+margin-bottom: 5px;
+}
+
+.iframe-chat {
+border: 3px;
+border-radius: 7px;
+}
+
+
+
+
+.fill video {
+object-fit: fill;
+}
+.fit video {
+object-fit: contain;
+}
+
+
+.zoomIn video {
+object-fit: none;
+}
+
+
+.zoomOut video {
+object-fit: cover;
+}
+
+
+
+
+.fullscreen-button {
+position: absolute;
+top: 10px;
+right: 10px;
+}
+
+/* Fullscreen mode */
+.video:-webkit-full-screen {
+width: 100%;
+height: 100%;
+}
+
+.video:-moz-full-screen {
+width: 100%;
+height: 100%;
+}
+
+.video:-ms-fullscreen {
+width: 100%;
+height: 100%;
+}
+
+.video:fullscreen {
+width: 100%;
+height: 100%;
+}
+
+/* Hide fullscreen button in fullscreen mode */
+.video:-webkit-full-screen ~ .fullscreen-button,
+.video:-moz-full-screen ~ .fullscreen-button,
+.video:-ms-fullscreen ~ .fullscreen-button,
+.video:fullscreen ~ .fullscreen-button {
+display: none;
+}
+
+.btn0 {
+border: true ;
+border-radius: 10px;
+border-top-color: red;
+border-right-color: red;
+border-bottom-color: blue;
+border-left-color: blue;
+background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+.btn1 {
+color: white;
+font-size: 9px;
+}
+
+
+
+.btn2 {
+background-image: linear-gradient(to bottom right, black, blue, yellow );
+color: white;
+padding: 6px 10px;
+border: none;
+font-size: 9px;
+border-radius: 5px;
+margin: 3px;
+}
+
+.btn2:hover {
+background-image: linear-gradient(to bottom right, black, blue, red);
+}
+
+
+
